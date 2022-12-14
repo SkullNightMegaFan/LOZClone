@@ -1,0 +1,4 @@
+﻿  GameCore.cpp
+C:\Users\Brenton\source\repos\Game140\FinalProject\2DSpriteDungeon\GameCore.h(75,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  2DSpriteDungeon.vcxproj -> C:\Users\Brenton\source\repos\Game140\FinalProject\2DSpriteDungeon\x64\Debug\2DSpriteDungeon.exe
+  0 File(s) copied
