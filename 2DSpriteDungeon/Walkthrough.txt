@@ -1,0 +1,10 @@
+In order to wiin this game you need to collect the sword item and the key item. The sword is located in the most southern region of the game. 
+The key can be seen within starting the game. A Ghini(ghost) enemy will be following you throughout the game. Every time it touches you, you lose some health. Be sure to avoid it at all costs.
+There's also an extra heart nearby to showcase the addition of player health. 
+
+Things to be added next update
+-attacking mechanic
+-enemies animating
+- playing sound effects.(i included the library and sound effects, but I keep getting compilier errors.)
+-enemies despawn after the player wins. 
+-multiple new rooms to expand the world. 
